@@ -1,0 +1,78 @@
+{
+  "id": "97b081ff-93dd-4164-95bd-97acc2c6bf60",
+  "version": "2.0",
+  "name": "Facebook",
+  "url": "https://www.facebook.com/",
+  "tests": [{
+    "id": "cf319b97-ddf4-4823-beaa-6c138cdf335c",
+    "name": "Demo_Facebook",
+    "commands": [{
+      "id": "287e0707-c242-4f97-9945-699c89948396",
+      "comment": "",
+      "command": "open",
+      "target": "https://web.facebook.com/?_rdc=1&_rdr",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8917a1c7-bfb0-4d89-bed2-00e07df95965",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1050x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "db89ce10-c25b-4364-afd2-b6d5ed144d7a",
+      "comment": "",
+      "command": "type",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["name=email", "name"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//form[@id='u_0_g_mH']/div/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "oyeleye adejumoke"
+    }, {
+      "id": "30dad367-1197-4a0a-aefd-a3c79670e7c8",
+      "comment": "",
+      "command": "type",
+      "target": "id=pass",
+      "targets": [
+        ["id=pass", "id"],
+        ["name=pass", "name"],
+        ["css=#pass", "css:finder"],
+        ["xpath=//input[@id='pass']", "xpath:attributes"],
+        ["xpath=//div[@id='passContainer']/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": "temiladeadejumoke93"
+    }, {
+      "id": "91fc8024-4200-4901-8588-b66996d895c3",
+      "comment": "",
+      "command": "click",
+      "target": "id=u_0_j_cm",
+      "targets": [
+        ["id=u_0_j_cm", "id"],
+        ["name=login", "name"],
+        ["css=#u_0_j_cm", "css:finder"],
+        ["xpath=//button[@id='u_0_j_cm']", "xpath:attributes"],
+        ["xpath=//form[@id='u_0_g_mH']/div[2]/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Log In')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "6ebf3632-ee70-4b85-9d0f-ec53ed2188b8",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["cf319b97-ddf4-4823-beaa-6c138cdf335c"]
+  }],
+  "urls": ["https://www.facebook.com/"],
+  "plugins": []
+}
