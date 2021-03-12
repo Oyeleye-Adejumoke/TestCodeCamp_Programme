@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="859fd817-eb55-4c36-8ad6-0aa7f2d290c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deydam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/06ae2e34-ae01-4c72-8e21-77746e8e5f94-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1c2f4f29-c5bf-4af2-b662-faf9619665ca-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/333d5174-5f6c-4e50-98f7-b4e3c79ba164-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5fea0b22-f3f4-4fba-a454-0851a8d40db6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6240d2e8-97d9-4867-8134-90c2bcdb3274-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/64d402e4-2d01-49af-8ffa-3eedfd5f0138-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7ca334e2-c504-4132-85ae-a7c30e3cb1f8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8a2bae03-58c6-44e3-a801-c791c0b310fd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9cafd4ff-5f12-4540-aff6-2c73b8a2c57a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f7fac857-5b8d-4712-b562-86259fadacc1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/User/UserManagementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/Facebook_Login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/src/test/java/User/UserManagementTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1pfQSVBr1zKDOi5rQAs5qS7i4Al" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HARDEJHUMMOKE\TestCodeCamp_Programme\Submissions\SeleniumWebdriverTests\SinglePage_task\Deydam\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/Users/HARDEJHUMMOKE/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_task/Deydam/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Deydam" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/HARDEJHUMMOKE/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_task/Deydam/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="859fd817-eb55-4c36-8ad6-0aa7f2d290c7" name="Default Changelist" comment="" />
+      <created>1615571677307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615571677307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
